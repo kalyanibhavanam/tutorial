@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.circle {
+    height: 0.375em;
+    width: 0.375em;
+    background-color: #cc8189;
+    border-radius: 50%;
+    display: inline-block;
+    bottom: 3px;
+    position: relative;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.circleForSkills {
+    height: 0.375em;
+    width: 0.375em;
+    background-color: #cc8189;
+    border-radius: 50%;
+    display: inline-block;
+    bottom: 3px;
+    position: relative;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.font_bold {
+    font-weight: bolder;
+}
+
+.pb_35 {
+    padding-bottom: 35px;
+}
+
+.pb_5 {
+    padding-bottom: 5px;
+}
+
+.pt_20 {
+    padding-top: 20px;
+}
+
+.inline-flex {
+    display: inline-flex;
+}
